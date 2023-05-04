@@ -1,8 +1,8 @@
 {
     "zaedenmusic123@outlook.com": {
-        "Last check": "Your account has been locked !",
-        "Today's points": 491,
-        "Points": 1672
+        "Last check": "2023-05-04",
+        "Today's points": 691,
+        "Points": 2363
     },
-    "Elapsed time": "00:00:08"
+    "Elapsed time": "00:13:25"
 }
